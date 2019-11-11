@@ -7,7 +7,6 @@ function mediaHexHelper(option) {
         return hexCode = '#C463EB';
       case 'youtube':
         return hexCode = '#FF0000';
-        break;
       case 'google':
         return hexCode = '#FDCC17';
       case 'spotify':
