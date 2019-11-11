@@ -20,13 +20,13 @@ const mediaColor = {
     color: mediaHexHelper('apple')
 }
 
-function Styles() {
+function MyComponent() {
     return (
         <div style={mediaColor}>hello</div>
     );
 }
 
-export default Styles;
+export default MyComponent;
 
 ```
 **Available Media Hexes**
