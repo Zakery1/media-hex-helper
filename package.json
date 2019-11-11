@@ -1,0 +1,22 @@
+{
+  "name": "media-hex",
+  "version": "1.0.0",
+  "description": "Add the colors of popular media platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakery1/media-hex-helper.git"
+  },
+  "keywords": [
+    "media"
+  ],
+  "author": "Zachary Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakery1/media-hex-helper/issues"
+  },
+  "homepage": "https://github.com/Zakery1/media-hex-helper#readme"
+}

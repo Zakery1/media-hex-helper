@@ -1,14 +1,26 @@
-function mediaHexHelper(options) {
-    let mediaHexes = document.querySelectorAll('.media-hex');
+function mediaHexHelper(option) {
 
-    if(options.media_type === 'apple')
-        options.media_type = '#C463EB'
-    else 
-        options.media_type = 'grey'
-    
-    mediaHexes.forEach(mediaHex => {
-        mediaHex.style.color = options.media_type;
-    })
-}
+    let hexCode;
+  
+    switch(option) {
+      case 'apple':
+        return hexCode = '#C463EB';
+      case 'youtube':
+        return hexCode = '#FF0000';
+        break;
+      case 'google':
+        return hexCode = '#FDCC17';
+      case 'spotify':
+        return hexCode = '#1BD75F';
+      case 'podcast-republic':
+        return hexCode = '#5483DF';
+      case 'podcast-addict':
+        return hexCode = '#F3873C';
+      case 'i-heart-radio':
+        return hexCode = '#C92325';
+      default:
+        return hexCode = 'black';
+    }
+  }
 
 module.exports.mediaHexHelper =  mediaHexHelper;
