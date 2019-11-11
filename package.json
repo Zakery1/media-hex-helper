@@ -1,6 +1,6 @@
 {
   "name": "media-hex",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "description": "Add the colors of popular media platforms",
   "main": "index.js",
   "scripts": {
