@@ -29,12 +29,13 @@ function Styles() {
 export default Styles;
 
 ```
+**Available Media Hexes**
 
-- ![#C463EB](https://placehold.it/15/f03c15/000000?text=+) `'apple'`
-- ![#FF0000](https://placehold.it/15/c5f015/000000?text=+) `'youtube'`
-- ![#FDCC17](https://placehold.it/15/1589F0/000000?text=+) `'google'`
-- ![#1BD75F](https://placehold.it/15/1589F0/000000?text=+) `'spotify'`
-- ![#5483DF](https://placehold.it/15/1589F0/000000?text=+) `'podcast-republic'`
-- ![#F3873C](https://placehold.it/15/1589F0/000000?text=+) `'podcast-addict'`
-- ![#C92325](https://placehold.it/15/1589F0/000000?text=+) `'i-heart-radio'`
+- ![#C463EB](https://placehold.it/15/C463EB/000000?text=+) `'apple'`
+- ![#FF0000](https://placehold.it/15/FF0000/000000?text=+) `'youtube'`
+- ![#FDCC17](https://placehold.it/15/FDCC17/000000?text=+) `'google'`
+- ![#1BD75F](https://placehold.it/15/1BD75F/000000?text=+) `'spotify'`
+- ![#5483DF](https://placehold.it/15/5483DF/000000?text=+) `'podcast-republic'`
+- ![#F3873C](https://placehold.it/15/F3873C/000000?text=+) `'podcast-addict'`
+- ![#C92325](https://placehold.it/15/C92325/000000?text=+) `'i-heart-radio'`
 
