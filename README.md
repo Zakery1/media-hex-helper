@@ -8,7 +8,7 @@ Get the colors of popular media platforms instead of having to find hex codes.
 
 ## Example
 
-One an put their styles in an object in your component file, then replace the CSS property value with this function.
+One can put their styles in an object in one's React component in file, then replace the CSS property value with this function.
 
 ```
 color: mediaHexHelper('apple')
