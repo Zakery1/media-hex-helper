@@ -23,11 +23,18 @@ const mediaColor = {
 function Styles() {
     return (
         <div style={mediaColor}>hello</div>
-    )
+    );
 }
 
 export default Styles;
 
 ```
 
-*  *color*  - _apple | youtube | google | spotify | podcast-republic | podcast-addict | i-heart-radio_ (Defaults to black)
+- ![#C463EB](https://placehold.it/15/f03c15/000000?text=+) `'apple'`
+- ![#FF0000](https://placehold.it/15/c5f015/000000?text=+) `'youtube'`
+- ![#FDCC17](https://placehold.it/15/1589F0/000000?text=+) `'google'`
+- ![#1BD75F](https://placehold.it/15/1589F0/000000?text=+) `'spotify'`
+- ![#5483DF](https://placehold.it/15/1589F0/000000?text=+) `'podcast-republic'`
+- ![#F3873C](https://placehold.it/15/1589F0/000000?text=+) `'podcast-addict'`
+- ![#C92325](https://placehold.it/15/1589F0/000000?text=+) `'i-heart-radio'`
+
