@@ -1,6 +1,6 @@
 {
   "name": "media-hex",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "description": "Add the colors of popular media platforms",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/Zakery1/media-hex-helper.git"
   },
   "keywords": [
-    "media", "hex", "hex-code", "color", "css", "styling"
+    "media",
+    "hex",
+    "hex-code",
+    "color",
+    "css",
+    "styling"
   ],
   "author": "Zachary Graham",
   "license": "ISC",
