@@ -29,29 +29,31 @@ function MyComponent() {
 export default MyComponent;
 
 ```
+
 **Social Media Hexes**
-- ![#3B5A9B](https://placehold.it/15/3B5A9B/000000?text=+) `'facebook'`
-- ![#1DA1F2](https://placehold.it/15/1DA1F2/000000?text=+) `'twitter'`
-- ![#48C558](https://placehold.it/15/48C558/000000?text=+) `'whatsapp'`
-- ![#D82E84](https://placehold.it/15/D82E84/000000?text=+) `'instagram'`
-- ![#7289DA](https://placehold.it/15/7289DA/000000?text=+) `'discord'`
+`'facebook'`
+`'twitter'`
+`'whatsapp'`
+`'instagram'`
+`'discord'`
 
 **Video Streaming Media Hexes**
-- ![#FF0000](https://placehold.it/15/FF0000/000000?text=+) `'youtube'`
-- ![#E50914](https://placehold.it/15/E50914/000000?text=+) `'netflix'`
-- ![#1CE783](https://placehold.it/15/1CE783/000000?text=+) `'hulu'`
-- ![#00A8E1](https://placehold.it/15/00A8E1/000000?text=+) `'amazon-prime'`
-- ![#12225D](https://placehold.it/15/12225D/000000?text=+) `'disney-plus'`
+`'youtube'`
+`'netflix'`
+`'hulu'`
+`'amazon-prime'`
+`'disney-plus'`
 
 
 **Audio Media Hexes**
-- ![#C463EB](https://placehold.it/15/C463EB/000000?text=+) `'apple'`
-- ![#FDCC17](https://placehold.it/15/FDCC17/000000?text=+) `'google'`
-- ![#1BD75F](https://placehold.it/15/1BD75F/000000?text=+) `'spotify'`
-- ![#5483DF](https://placehold.it/15/5483DF/000000?text=+) `'podcast-republic'`
-- ![#F3873C](https://placehold.it/15/F3873C/000000?text=+) `'podcast-addict'`
-- ![#C92325](https://placehold.it/15/C92325/000000?text=+) `'i-heart-radio'`
+`'apple'`
+`'google'`
+`'spotify'`
+`'podcast-republic'`
+`'podcast-addict'`
+`'i-heart-radio'`
 
+![colors](colors.png)
 
 
 
