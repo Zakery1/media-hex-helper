@@ -53,7 +53,7 @@ export default MyComponent;
 `'podcast-addict'`
 `'i-heart-radio'`
 
-- ![colors](colors.png) `'colors visualized'`
+![colors](colors.png) `'colors'`
 
 
 
