@@ -30,7 +30,7 @@ export default MyComponent;
 
 ```
 **Social Media Hexes**
-- ![#3B5A9B](https://placehold.it/15/3B5A9B/000000?text=+) `'facebook'`
+- ![predator gif](3-predator.gif) `'facebook'`
 - ![#1DA1F2](https://placehold.it/15/1DA1F2/000000?text=+) `'twitter'`
 - ![#48C558](https://placehold.it/15/48C558/000000?text=+) `'whatsapp'`
 - ![#D82E84](https://placehold.it/15/D82E84/000000?text=+) `'instagram'`
