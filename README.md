@@ -30,28 +30,28 @@ export default MyComponent;
 
 ```
 
-**Social Media Hexes**
+**Social Media Hexes**\
 `'facebook'`\
 `'twitter'`\
 `'whatsapp'`\
 `'instagram'`\
-`'discord'`\
+`'discord'`
 
-**Video Streaming Media Hexes**
+**Video Streaming Media Hexes**\
 `'youtube'`\
 `'netflix'`\
 `'hulu'`\
 `'amazon-prime'`\
-`'disney-plus'`\
+`'disney-plus'`
 
 
-**Audio Media Hexes**
+**Audio Media Hexes**\
 `'apple'`\
 `'google'`\
 `'spotify'`\
 `'podcast-republic'`\
 `'podcast-addict'`\
-`'i-heart-radio'`\
+`'i-heart-radio'`
 
 ![colors](colors.png)
 
